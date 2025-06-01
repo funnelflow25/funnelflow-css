@@ -1,5 +1,3 @@
-/* B- Dynamic EAMC Student Template (No SaaS) */
-
 .{{LOCATION_ID}} #tb_brand-boards,
 .{{LOCATION_ID}} #tb_proposals-estimates,
 .{{LOCATION_ID}} #sb_memberships,
@@ -59,10 +57,7 @@
 .{{LOCATION_ID}} #tb_payment-invoices {
   display: none !important;
 }
-
 .{{LOCATION_ID}} #location_dashboard-btn-dashboard_switcher,
 .{{LOCATION_ID}} #location-dashboard_btn--edit-dashboard {
   pointer-events: none !important;
 }
-
-/* E- Dynamic EAMC Student Template (No SaaS) */
