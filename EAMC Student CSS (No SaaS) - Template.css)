@@ -1,4 +1,4 @@
-/* B- Dynamic Template - Starter Plan With No SaaS */
+/* B- {{student_name}} - Starter Plan With No SaaS */
 .{{LOCATION_ID}} #tb_brand-boards,
 .{{LOCATION_ID}} #tb_proposals-estimates,
 .{{LOCATION_ID}} #sb_memberships,
@@ -63,4 +63,4 @@
 .{{LOCATION_ID}} #location-dashboard_btn--edit-dashboard {
   pointer-events: none !important;
 }
-/* E- Dynamic Template - Starter Plan With No SaaS */
+/* E- {{student_name}} - Starter Plan With No SaaS */
