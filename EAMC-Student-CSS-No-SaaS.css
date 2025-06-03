@@ -3110,3 +3110,70 @@ E-======= EAMC Student Starter Plan - No SaaS =============
 B-======= EAMC Student Starter Plan - No SaaS =============
                Appended Automatically
 #########################################################*/
+
+/* B- Alaa Aose - Starter Plan With No SaaS */
+..zsFK9r6beHrmEXM7PITO #tb_brand-boards,
+..zsFK9r6beHrmEXM7PITO #tb_proposals-estimates,
+..zsFK9r6beHrmEXM7PITO #sb_memberships,
+..zsFK9r6beHrmEXM7PITO #tb_clientportal,
+..zsFK9r6beHrmEXM7PITO #sb_location-mobile-app,
+..zsFK9r6beHrmEXM7PITO #sb_launchpad,
+..zsFK9r6beHrmEXM7PITO #sb_integrations,
+..zsFK9r6beHrmEXM7PITO #sb_my-business,
+..zsFK9r6beHrmEXM7PITO #sb_business-services,
+..zsFK9r6beHrmEXM7PITO #sb_conversation_ai_settings,
+..zsFK9r6beHrmEXM7PITO #sb_phone-number,
+..zsFK9r6beHrmEXM7PITO #sb_whatsapp,
+..zsFK9r6beHrmEXM7PITO #sb_url-redirects,
+..zsFK9r6beHrmEXM7PITO #sb_conversations_providers,
+..zsFK9r6beHrmEXM7PITO #sb_other-settings,
+..zsFK9r6beHrmEXM7PITO #dialer-error-toggle,
+..zsFK9r6beHrmEXM7PITO #tb_url-redirects,
+..zsFK9r6beHrmEXM7PITO #tb_chat-widget,
+..zsFK9r6beHrmEXM7PITO #tb_email-templates,
+..zsFK9r6beHrmEXM7PITO #tb_trigger-links,
+..zsFK9r6beHrmEXM7PITO #sb_custom-values,
+..zsFK9r6beHrmEXM7PITO #sb_custom-fields-settings,
+..zsFK9r6beHrmEXM7PITO #sb_conversations,
+..zsFK9r6beHrmEXM7PITO #recent_activities-toggle,
+..zsFK9r6beHrmEXM7PITO #sb_AI\ Agents,
+..zsFK9r6beHrmEXM7PITO #tb_analytics,
+..zsFK9r6beHrmEXM7PITO #tb_qr-codes,
+..zsFK9r6beHrmEXM7PITO #sb_conversation_ai_settings_v2,
+..zsFK9r6beHrmEXM7PITO #sb_saas-billing,
+..zsFK9r6beHrmEXM7PITO #sb_reporting,
+..zsFK9r6beHrmEXM7PITO #sb_brand-boards,
+..zsFK9r6beHrmEXM7PITO #tb_countdown-timer,
+..zsFK9r6beHrmEXM7PITO #sb_ai_agent_settings,
+..zsFK9r6beHrmEXM7PITO #tb_conversations-templates,
+..zsFK9r6beHrmEXM7PITO #tb_trigger-links,
+..zsFK9r6beHrmEXM7PITO #tb_contacts-restore,
+..zsFK9r6beHrmEXM7PITO #tb_contacts-settings-topid,
+..zsFK9r6beHrmEXM7PITO #tb_contact-custom-fields-settings,
+..zsFK9r6beHrmEXM7PITO #tb_pipeline,
+..zsFK9r6beHrmEXM7PITO #tb_bulk-actions,
+..zsFK9r6beHrmEXM7PITO #tb_webinars,
+..zsFK9r6beHrmEXM7PITO #container,
+..zsFK9r6beHrmEXM7PITO a#recent_activities-toggle,
+..zsFK9r6beHrmEXM7PITO button[aria-label="Toggle Power Dialer"],
+..zsFK9r6beHrmEXM7PITO ul.flex > li:nth-child(2),
+..zsFK9r6beHrmEXM7PITO #sb_knowledge_base_settings,
+..zsFK9r6beHrmEXM7PITO #sb_objects,
+..zsFK9r6beHrmEXM7PITO #stb_proposals-estimates,
+..zsFK9r6beHrmEXM7PITO #tb_tasks,
+..zsFK9r6beHrmEXM7PITO #tb_business,
+..zsFK9r6beHrmEXM7PITO #tb_lists,
+..zsFK9r6beHrmEXM7PITO #tb_contacts-settings-top,
+..zsFK9r6beHrmEXM7PITO #task-tab,
+..zsFK9r6beHrmEXM7PITO #notes-tab,
+..zsFK9r6beHrmEXM7PITO #documents-tab,
+..zsFK9r6beHrmEXM7PITO #associations-tab,
+..zsFK9r6beHrmEXM7PITO #tb_payment-invoices {
+  display: none !important;
+}
+
+..zsFK9r6beHrmEXM7PITO #location_dashboard-btn-dashboard_switcher,
+..zsFK9r6beHrmEXM7PITO #location-dashboard_btn--edit-dashboard {
+  pointer-events: none !important;
+}
+/* E- Alaa Aose - Starter Plan With No SaaS */
