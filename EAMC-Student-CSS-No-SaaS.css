@@ -3307,3 +3307,70 @@ E-======= EAMC STAFF Start Plan - No SaaS ================
   pointer-events: none !important;
 }
 /* E- Yosri Azaiez - Starter Plan With No SaaS */
+
+/* B- Aziz Rabaa - Starter Plan With No SaaS */
+..LhgK9QOB0kqEauIY0yHw #tb_brand-boards,
+..LhgK9QOB0kqEauIY0yHw #tb_proposals-estimates,
+..LhgK9QOB0kqEauIY0yHw #sb_memberships,
+..LhgK9QOB0kqEauIY0yHw #tb_clientportal,
+..LhgK9QOB0kqEauIY0yHw #sb_location-mobile-app,
+..LhgK9QOB0kqEauIY0yHw #sb_launchpad,
+..LhgK9QOB0kqEauIY0yHw #sb_integrations,
+..LhgK9QOB0kqEauIY0yHw #sb_my-business,
+..LhgK9QOB0kqEauIY0yHw #sb_business-services,
+..LhgK9QOB0kqEauIY0yHw #sb_conversation_ai_settings,
+..LhgK9QOB0kqEauIY0yHw #sb_phone-number,
+..LhgK9QOB0kqEauIY0yHw #sb_whatsapp,
+..LhgK9QOB0kqEauIY0yHw #sb_url-redirects,
+..LhgK9QOB0kqEauIY0yHw #sb_conversations_providers,
+..LhgK9QOB0kqEauIY0yHw #sb_other-settings,
+..LhgK9QOB0kqEauIY0yHw #dialer-error-toggle,
+..LhgK9QOB0kqEauIY0yHw #tb_url-redirects,
+..LhgK9QOB0kqEauIY0yHw #tb_chat-widget,
+..LhgK9QOB0kqEauIY0yHw #tb_email-templates,
+..LhgK9QOB0kqEauIY0yHw #tb_trigger-links,
+..LhgK9QOB0kqEauIY0yHw #sb_custom-values,
+..LhgK9QOB0kqEauIY0yHw #sb_custom-fields-settings,
+..LhgK9QOB0kqEauIY0yHw #sb_conversations,
+..LhgK9QOB0kqEauIY0yHw #recent_activities-toggle,
+..LhgK9QOB0kqEauIY0yHw #sb_AI\ Agents,
+..LhgK9QOB0kqEauIY0yHw #tb_analytics,
+..LhgK9QOB0kqEauIY0yHw #tb_qr-codes,
+..LhgK9QOB0kqEauIY0yHw #sb_conversation_ai_settings_v2,
+..LhgK9QOB0kqEauIY0yHw #sb_saas-billing,
+..LhgK9QOB0kqEauIY0yHw #sb_reporting,
+..LhgK9QOB0kqEauIY0yHw #sb_brand-boards,
+..LhgK9QOB0kqEauIY0yHw #tb_countdown-timer,
+..LhgK9QOB0kqEauIY0yHw #sb_ai_agent_settings,
+..LhgK9QOB0kqEauIY0yHw #tb_conversations-templates,
+..LhgK9QOB0kqEauIY0yHw #tb_trigger-links,
+..LhgK9QOB0kqEauIY0yHw #tb_contacts-restore,
+..LhgK9QOB0kqEauIY0yHw #tb_contacts-settings-topid,
+..LhgK9QOB0kqEauIY0yHw #tb_contact-custom-fields-settings,
+..LhgK9QOB0kqEauIY0yHw #tb_pipeline,
+..LhgK9QOB0kqEauIY0yHw #tb_bulk-actions,
+..LhgK9QOB0kqEauIY0yHw #tb_webinars,
+..LhgK9QOB0kqEauIY0yHw #container,
+..LhgK9QOB0kqEauIY0yHw a#recent_activities-toggle,
+..LhgK9QOB0kqEauIY0yHw button[aria-label="Toggle Power Dialer"],
+..LhgK9QOB0kqEauIY0yHw ul.flex > li:nth-child(2),
+..LhgK9QOB0kqEauIY0yHw #sb_knowledge_base_settings,
+..LhgK9QOB0kqEauIY0yHw #sb_objects,
+..LhgK9QOB0kqEauIY0yHw #stb_proposals-estimates,
+..LhgK9QOB0kqEauIY0yHw #tb_tasks,
+..LhgK9QOB0kqEauIY0yHw #tb_business,
+..LhgK9QOB0kqEauIY0yHw #tb_lists,
+..LhgK9QOB0kqEauIY0yHw #tb_contacts-settings-top,
+..LhgK9QOB0kqEauIY0yHw #task-tab,
+..LhgK9QOB0kqEauIY0yHw #notes-tab,
+..LhgK9QOB0kqEauIY0yHw #documents-tab,
+..LhgK9QOB0kqEauIY0yHw #associations-tab,
+..LhgK9QOB0kqEauIY0yHw #tb_payment-invoices {
+  display: none !important;
+}
+
+..LhgK9QOB0kqEauIY0yHw #location_dashboard-btn-dashboard_switcher,
+..LhgK9QOB0kqEauIY0yHw #location-dashboard_btn--edit-dashboard {
+  pointer-events: none !important;
+}
+/* E- Aziz Rabaa - Starter Plan With No SaaS */
