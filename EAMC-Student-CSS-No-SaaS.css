@@ -3110,3 +3110,70 @@ E-======= EAMC Student Starter Plan - No SaaS =============
 B-======= EAMC Student Starter Plan - No SaaS =============
                Appended Automatically
 #########################################################*/
+
+/* B- Ala Regdal - Starter Plan With No SaaS */
+..qf49HWS0PoL3JDlUq7ho #tb_brand-boards,
+..qf49HWS0PoL3JDlUq7ho #tb_proposals-estimates,
+..qf49HWS0PoL3JDlUq7ho #sb_memberships,
+..qf49HWS0PoL3JDlUq7ho #tb_clientportal,
+..qf49HWS0PoL3JDlUq7ho #sb_location-mobile-app,
+..qf49HWS0PoL3JDlUq7ho #sb_launchpad,
+..qf49HWS0PoL3JDlUq7ho #sb_integrations,
+..qf49HWS0PoL3JDlUq7ho #sb_my-business,
+..qf49HWS0PoL3JDlUq7ho #sb_business-services,
+..qf49HWS0PoL3JDlUq7ho #sb_conversation_ai_settings,
+..qf49HWS0PoL3JDlUq7ho #sb_phone-number,
+..qf49HWS0PoL3JDlUq7ho #sb_whatsapp,
+..qf49HWS0PoL3JDlUq7ho #sb_url-redirects,
+..qf49HWS0PoL3JDlUq7ho #sb_conversations_providers,
+..qf49HWS0PoL3JDlUq7ho #sb_other-settings,
+..qf49HWS0PoL3JDlUq7ho #dialer-error-toggle,
+..qf49HWS0PoL3JDlUq7ho #tb_url-redirects,
+..qf49HWS0PoL3JDlUq7ho #tb_chat-widget,
+..qf49HWS0PoL3JDlUq7ho #tb_email-templates,
+..qf49HWS0PoL3JDlUq7ho #tb_trigger-links,
+..qf49HWS0PoL3JDlUq7ho #sb_custom-values,
+..qf49HWS0PoL3JDlUq7ho #sb_custom-fields-settings,
+..qf49HWS0PoL3JDlUq7ho #sb_conversations,
+..qf49HWS0PoL3JDlUq7ho #recent_activities-toggle,
+..qf49HWS0PoL3JDlUq7ho #sb_AI\ Agents,
+..qf49HWS0PoL3JDlUq7ho #tb_analytics,
+..qf49HWS0PoL3JDlUq7ho #tb_qr-codes,
+..qf49HWS0PoL3JDlUq7ho #sb_conversation_ai_settings_v2,
+..qf49HWS0PoL3JDlUq7ho #sb_saas-billing,
+..qf49HWS0PoL3JDlUq7ho #sb_reporting,
+..qf49HWS0PoL3JDlUq7ho #sb_brand-boards,
+..qf49HWS0PoL3JDlUq7ho #tb_countdown-timer,
+..qf49HWS0PoL3JDlUq7ho #sb_ai_agent_settings,
+..qf49HWS0PoL3JDlUq7ho #tb_conversations-templates,
+..qf49HWS0PoL3JDlUq7ho #tb_trigger-links,
+..qf49HWS0PoL3JDlUq7ho #tb_contacts-restore,
+..qf49HWS0PoL3JDlUq7ho #tb_contacts-settings-topid,
+..qf49HWS0PoL3JDlUq7ho #tb_contact-custom-fields-settings,
+..qf49HWS0PoL3JDlUq7ho #tb_pipeline,
+..qf49HWS0PoL3JDlUq7ho #tb_bulk-actions,
+..qf49HWS0PoL3JDlUq7ho #tb_webinars,
+..qf49HWS0PoL3JDlUq7ho #container,
+..qf49HWS0PoL3JDlUq7ho a#recent_activities-toggle,
+..qf49HWS0PoL3JDlUq7ho button[aria-label="Toggle Power Dialer"],
+..qf49HWS0PoL3JDlUq7ho ul.flex > li:nth-child(2),
+..qf49HWS0PoL3JDlUq7ho #sb_knowledge_base_settings,
+..qf49HWS0PoL3JDlUq7ho #sb_objects,
+..qf49HWS0PoL3JDlUq7ho #stb_proposals-estimates,
+..qf49HWS0PoL3JDlUq7ho #tb_tasks,
+..qf49HWS0PoL3JDlUq7ho #tb_business,
+..qf49HWS0PoL3JDlUq7ho #tb_lists,
+..qf49HWS0PoL3JDlUq7ho #tb_contacts-settings-top,
+..qf49HWS0PoL3JDlUq7ho #task-tab,
+..qf49HWS0PoL3JDlUq7ho #notes-tab,
+..qf49HWS0PoL3JDlUq7ho #documents-tab,
+..qf49HWS0PoL3JDlUq7ho #associations-tab,
+..qf49HWS0PoL3JDlUq7ho #tb_payment-invoices {
+  display: none !important;
+}
+
+..qf49HWS0PoL3JDlUq7ho #location_dashboard-btn-dashboard_switcher,
+..qf49HWS0PoL3JDlUq7ho #location-dashboard_btn--edit-dashboard {
+  pointer-events: none !important;
+}
+/* E- Ala Regdal - Starter Plan With No SaaS */
