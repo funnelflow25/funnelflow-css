@@ -1,5 +1,111 @@
 /*#########################################################
+B-======= EAMC STAFF Start Plan - No SaaS ================
+                 Appended Manually
+#########################################################*/
+
+/* B- Ilyes Hechmi - EAMC STAFF */
+.jOKzvMcMxly3uMZrdx4S #sb_memberships,
+.jOKzvMcMxly3uMZrdx4S #tb_clientportal,
+.jOKzvMcMxly3uMZrdx4S #sb_automation,
+.jOKzvMcMxly3uMZrdx4S #sb_location-mobile-app,
+.jOKzvMcMxly3uMZrdx4S #sb_launchpad,
+.jOKzvMcMxly3uMZrdx4S #sb_integrations,
+.jOKzvMcMxly3uMZrdx4S #sb_my-business,
+.jOKzvMcMxly3uMZrdx4S #sb_business-services,
+.jOKzvMcMxly3uMZrdx4S #sb_business_info,
+.jOKzvMcMxly3uMZrdx4S #sb_business_info,
+.jOKzvMcMxly3uMZrdx4S #sb_calendars,
+.jOKzvMcMxly3uMZrdx4S #sb_calendars,
+.jOKzvMcMxly3uMZrdx4S #sb_conversation_ai_settings,
+.jOKzvMcMxly3uMZrdx4S #sb_conversation_ai_settings,
+.jOKzvMcMxly3uMZrdx4S #sb_location-email-services,
+.jOKzvMcMxly3uMZrdx4S #sb_location-email-services,
+.jOKzvMcMxly3uMZrdx4S #sb_phone-number,
+.jOKzvMcMxly3uMZrdx4S #sb_phone-number,
+.jOKzvMcMxly3uMZrdx4S #sb_whatsapp,
+.jOKzvMcMxly3uMZrdx4S #sb_whatsapp,
+.jOKzvMcMxly3uMZrdx4S #sb_url-redirects,
+.jOKzvMcMxly3uMZrdx4S #sb_url-redirects,
+.jOKzvMcMxly3uMZrdx4S #sb_conversations_providers,
+.jOKzvMcMxly3uMZrdx4S #sb_conversations_providers,
+.jOKzvMcMxly3uMZrdx4S #sb_other-settings,
+.jOKzvMcMxly3uMZrdx4S #tb_wordpress-v2,
+.jOKzvMcMxly3uMZrdx4S #dialer-error-toggle,
+.jOKzvMcMxly3uMZrdx4S #dialer-error-toggle,
+.jOKzvMcMxly3uMZrdx4S #tb_url-redirects,
+.jOKzvMcMxly3uMZrdx4S #tb_url-redirects,
+.jOKzvMcMxly3uMZrdx4S #tb_chat-widget,
+.jOKzvMcMxly3uMZrdx4S #tb_chat-widget,
+.jOKzvMcMxly3uMZrdx4S #tb_email-templates,
+.jOKzvMcMxly3uMZrdx4S #tb_trigger-links,
+.jOKzvMcMxly3uMZrdx4S #sb_custom-values,
+.jOKzvMcMxly3uMZrdx4S #sb_custom-fields-settings,
+.jOKzvMcMxly3uMZrdx4S #sb_conversations,
+.jOKzvMcMxly3uMZrdx4S #recent_activities-toggle,
+.jOKzvMcMxly3uMZrdx4S #tb_email-builder,
+.jOKzvMcMxly3uMZrdx4S #recent_activities-toggle {
+    display: none !important
+}
+/* E- Ilyes Hechmi */
+
+
+/* B- Mouadh Tizaoui - EAMC STAFF */
+.YRH4zqCX4UiGaGBk9DTs #sb_memberships,
+.YRH4zqCX4UiGaGBk9DTs #tb_clientportal,
+.YRH4zqCX4UiGaGBk9DTs #sb_automation,
+.YRH4zqCX4UiGaGBk9DTs #sb_location-mobile-app,
+.YRH4zqCX4UiGaGBk9DTs #sb_launchpad,
+.YRH4zqCX4UiGaGBk9DTs #sb_integrations,
+.YRH4zqCX4UiGaGBk9DTs #sb_my-business,
+.YRH4zqCX4UiGaGBk9DTs #sb_business-services,
+.YRH4zqCX4UiGaGBk9DTs #sb_business_info,
+.YRH4zqCX4UiGaGBk9DTs #sb_business_info,
+.YRH4zqCX4UiGaGBk9DTs #sb_calendars,
+.YRH4zqCX4UiGaGBk9DTs #sb_calendars,
+.YRH4zqCX4UiGaGBk9DTs #sb_conversation_ai_settings,
+.YRH4zqCX4UiGaGBk9DTs #sb_conversation_ai_settings,
+.YRH4zqCX4UiGaGBk9DTs #sb_location-email-services,
+.YRH4zqCX4UiGaGBk9DTs #sb_location-email-services,
+.YRH4zqCX4UiGaGBk9DTs #sb_phone-number,
+.YRH4zqCX4UiGaGBk9DTs #sb_phone-number,
+.YRH4zqCX4UiGaGBk9DTs #sb_whatsapp,
+.YRH4zqCX4UiGaGBk9DTs #sb_whatsapp,
+.YRH4zqCX4UiGaGBk9DTs #sb_url-redirects,
+.YRH4zqCX4UiGaGBk9DTs #sb_url-redirects,
+.YRH4zqCX4UiGaGBk9DTs #sb_conversations_providers,
+.YRH4zqCX4UiGaGBk9DTs #sb_conversations_providers,
+.YRH4zqCX4UiGaGBk9DTs #sb_other-settings,
+.YRH4zqCX4UiGaGBk9DTs #tb_wordpress-v2,
+.YRH4zqCX4UiGaGBk9DTs #dialer-error-toggle,
+.YRH4zqCX4UiGaGBk9DTs #dialer-error-toggle,
+.YRH4zqCX4UiGaGBk9DTs #tb_url-redirects,
+.YRH4zqCX4UiGaGBk9DTs #tb_url-redirects,
+.YRH4zqCX4UiGaGBk9DTs #tb_chat-widget,
+.YRH4zqCX4UiGaGBk9DTs #tb_chat-widget,
+.YRH4zqCX4UiGaGBk9DTs #tb_email-templates,
+.YRH4zqCX4UiGaGBk9DTs #tb_trigger-links,
+.YRH4zqCX4UiGaGBk9DTs #sb_custom-values,
+.YRH4zqCX4UiGaGBk9DTs #sb_custom-fields-settings,
+.YRH4zqCX4UiGaGBk9DTs #sb_conversations,
+.YRH4zqCX4UiGaGBk9DTs #recent_activities-toggle,
+.YRH4zqCX4UiGaGBk9DTs #tb_webinars,
+.YRH4zqCX4UiGaGBk9DTs #tb_qr-codes,
+.YRH4zqCX4UiGaGBk9DTs #tb_countdown-timer,
+.YRH4zqCX4UiGaGBk9DTs #tb_brand-boards,
+.YRH4zqCX4UiGaGBk9DTs #tb_email-builder,
+.YRH4zqCX4UiGaGBk9DTs #sb_app-marketplace {
+    display: none !important
+}
+
+/* E- Mouadh Tizaoui */
+
+/*#########################################################
+E-======= EAMC STAFF Start Plan - No SaaS ================
+#########################################################*/
+
+/*#########################################################
 B-======= EAMC Student Starter Plan - No SaaS =============
+                 Appended Manually
 #########################################################*/
 
 /* B- Yosri Azaiez - Starter Plan With No SaaS */
@@ -3136,241 +3242,7 @@ B-======= EAMC Student Starter Plan - No SaaS =============
 E-======= EAMC Student Starter Plan - No SaaS =============
 #########################################################*/
 
-
 /*#########################################################
-B-======= EAMC STAFF Start Plan - No SaaS ================
+B-======= EAMC Student Starter Plan - No SaaS =============
+               Appended Automatically
 #########################################################*/
-
-/* B- Ilyes Hechmi - EAMC STAFF */
-.jOKzvMcMxly3uMZrdx4S #sb_memberships,
-.jOKzvMcMxly3uMZrdx4S #tb_clientportal,
-.jOKzvMcMxly3uMZrdx4S #sb_automation,
-.jOKzvMcMxly3uMZrdx4S #sb_location-mobile-app,
-.jOKzvMcMxly3uMZrdx4S #sb_launchpad,
-.jOKzvMcMxly3uMZrdx4S #sb_integrations,
-.jOKzvMcMxly3uMZrdx4S #sb_my-business,
-.jOKzvMcMxly3uMZrdx4S #sb_business-services,
-.jOKzvMcMxly3uMZrdx4S #sb_business_info,
-.jOKzvMcMxly3uMZrdx4S #sb_business_info,
-.jOKzvMcMxly3uMZrdx4S #sb_calendars,
-.jOKzvMcMxly3uMZrdx4S #sb_calendars,
-.jOKzvMcMxly3uMZrdx4S #sb_conversation_ai_settings,
-.jOKzvMcMxly3uMZrdx4S #sb_conversation_ai_settings,
-.jOKzvMcMxly3uMZrdx4S #sb_location-email-services,
-.jOKzvMcMxly3uMZrdx4S #sb_location-email-services,
-.jOKzvMcMxly3uMZrdx4S #sb_phone-number,
-.jOKzvMcMxly3uMZrdx4S #sb_phone-number,
-.jOKzvMcMxly3uMZrdx4S #sb_whatsapp,
-.jOKzvMcMxly3uMZrdx4S #sb_whatsapp,
-.jOKzvMcMxly3uMZrdx4S #sb_url-redirects,
-.jOKzvMcMxly3uMZrdx4S #sb_url-redirects,
-.jOKzvMcMxly3uMZrdx4S #sb_conversations_providers,
-.jOKzvMcMxly3uMZrdx4S #sb_conversations_providers,
-.jOKzvMcMxly3uMZrdx4S #sb_other-settings,
-.jOKzvMcMxly3uMZrdx4S #tb_wordpress-v2,
-.jOKzvMcMxly3uMZrdx4S #dialer-error-toggle,
-.jOKzvMcMxly3uMZrdx4S #dialer-error-toggle,
-.jOKzvMcMxly3uMZrdx4S #tb_url-redirects,
-.jOKzvMcMxly3uMZrdx4S #tb_url-redirects,
-.jOKzvMcMxly3uMZrdx4S #tb_chat-widget,
-.jOKzvMcMxly3uMZrdx4S #tb_chat-widget,
-.jOKzvMcMxly3uMZrdx4S #tb_email-templates,
-.jOKzvMcMxly3uMZrdx4S #tb_trigger-links,
-.jOKzvMcMxly3uMZrdx4S #sb_custom-values,
-.jOKzvMcMxly3uMZrdx4S #sb_custom-fields-settings,
-.jOKzvMcMxly3uMZrdx4S #sb_conversations,
-.jOKzvMcMxly3uMZrdx4S #recent_activities-toggle,
-.jOKzvMcMxly3uMZrdx4S #tb_email-builder,
-.jOKzvMcMxly3uMZrdx4S #recent_activities-toggle {
-    display: none !important
-}
-/* E- Ilyes Hechmi */
-
-
-/* B- Mouadh Tizaoui - EAMC STAFF */
-.YRH4zqCX4UiGaGBk9DTs #sb_memberships,
-.YRH4zqCX4UiGaGBk9DTs #tb_clientportal,
-.YRH4zqCX4UiGaGBk9DTs #sb_automation,
-.YRH4zqCX4UiGaGBk9DTs #sb_location-mobile-app,
-.YRH4zqCX4UiGaGBk9DTs #sb_launchpad,
-.YRH4zqCX4UiGaGBk9DTs #sb_integrations,
-.YRH4zqCX4UiGaGBk9DTs #sb_my-business,
-.YRH4zqCX4UiGaGBk9DTs #sb_business-services,
-.YRH4zqCX4UiGaGBk9DTs #sb_business_info,
-.YRH4zqCX4UiGaGBk9DTs #sb_business_info,
-.YRH4zqCX4UiGaGBk9DTs #sb_calendars,
-.YRH4zqCX4UiGaGBk9DTs #sb_calendars,
-.YRH4zqCX4UiGaGBk9DTs #sb_conversation_ai_settings,
-.YRH4zqCX4UiGaGBk9DTs #sb_conversation_ai_settings,
-.YRH4zqCX4UiGaGBk9DTs #sb_location-email-services,
-.YRH4zqCX4UiGaGBk9DTs #sb_location-email-services,
-.YRH4zqCX4UiGaGBk9DTs #sb_phone-number,
-.YRH4zqCX4UiGaGBk9DTs #sb_phone-number,
-.YRH4zqCX4UiGaGBk9DTs #sb_whatsapp,
-.YRH4zqCX4UiGaGBk9DTs #sb_whatsapp,
-.YRH4zqCX4UiGaGBk9DTs #sb_url-redirects,
-.YRH4zqCX4UiGaGBk9DTs #sb_url-redirects,
-.YRH4zqCX4UiGaGBk9DTs #sb_conversations_providers,
-.YRH4zqCX4UiGaGBk9DTs #sb_conversations_providers,
-.YRH4zqCX4UiGaGBk9DTs #sb_other-settings,
-.YRH4zqCX4UiGaGBk9DTs #tb_wordpress-v2,
-.YRH4zqCX4UiGaGBk9DTs #dialer-error-toggle,
-.YRH4zqCX4UiGaGBk9DTs #dialer-error-toggle,
-.YRH4zqCX4UiGaGBk9DTs #tb_url-redirects,
-.YRH4zqCX4UiGaGBk9DTs #tb_url-redirects,
-.YRH4zqCX4UiGaGBk9DTs #tb_chat-widget,
-.YRH4zqCX4UiGaGBk9DTs #tb_chat-widget,
-.YRH4zqCX4UiGaGBk9DTs #tb_email-templates,
-.YRH4zqCX4UiGaGBk9DTs #tb_trigger-links,
-.YRH4zqCX4UiGaGBk9DTs #sb_custom-values,
-.YRH4zqCX4UiGaGBk9DTs #sb_custom-fields-settings,
-.YRH4zqCX4UiGaGBk9DTs #sb_conversations,
-.YRH4zqCX4UiGaGBk9DTs #recent_activities-toggle,
-.YRH4zqCX4UiGaGBk9DTs #tb_webinars,
-.YRH4zqCX4UiGaGBk9DTs #tb_qr-codes,
-.YRH4zqCX4UiGaGBk9DTs #tb_countdown-timer,
-.YRH4zqCX4UiGaGBk9DTs #tb_brand-boards,
-.YRH4zqCX4UiGaGBk9DTs #tb_email-builder,
-.YRH4zqCX4UiGaGBk9DTs #sb_app-marketplace {
-    display: none !important
-}
-
-/* E- Mouadh Tizaoui */
-
-/*#########################################################
-E-======= EAMC STAFF Start Plan - No SaaS ================
-#########################################################*/
-
-/* B- Yosri Azaiez - Starter Plan With No SaaS */
-..UCpSNys4WzPf9mqfSFTs #tb_brand-boards,
-..UCpSNys4WzPf9mqfSFTs #tb_proposals-estimates,
-..UCpSNys4WzPf9mqfSFTs #sb_memberships,
-..UCpSNys4WzPf9mqfSFTs #tb_clientportal,
-..UCpSNys4WzPf9mqfSFTs #sb_location-mobile-app,
-..UCpSNys4WzPf9mqfSFTs #sb_launchpad,
-..UCpSNys4WzPf9mqfSFTs #sb_integrations,
-..UCpSNys4WzPf9mqfSFTs #sb_my-business,
-..UCpSNys4WzPf9mqfSFTs #sb_business-services,
-..UCpSNys4WzPf9mqfSFTs #sb_conversation_ai_settings,
-..UCpSNys4WzPf9mqfSFTs #sb_phone-number,
-..UCpSNys4WzPf9mqfSFTs #sb_whatsapp,
-..UCpSNys4WzPf9mqfSFTs #sb_url-redirects,
-..UCpSNys4WzPf9mqfSFTs #sb_conversations_providers,
-..UCpSNys4WzPf9mqfSFTs #sb_other-settings,
-..UCpSNys4WzPf9mqfSFTs #dialer-error-toggle,
-..UCpSNys4WzPf9mqfSFTs #tb_url-redirects,
-..UCpSNys4WzPf9mqfSFTs #tb_chat-widget,
-..UCpSNys4WzPf9mqfSFTs #tb_email-templates,
-..UCpSNys4WzPf9mqfSFTs #tb_trigger-links,
-..UCpSNys4WzPf9mqfSFTs #sb_custom-values,
-..UCpSNys4WzPf9mqfSFTs #sb_custom-fields-settings,
-..UCpSNys4WzPf9mqfSFTs #sb_conversations,
-..UCpSNys4WzPf9mqfSFTs #recent_activities-toggle,
-..UCpSNys4WzPf9mqfSFTs #sb_AI\ Agents,
-..UCpSNys4WzPf9mqfSFTs #tb_analytics,
-..UCpSNys4WzPf9mqfSFTs #tb_qr-codes,
-..UCpSNys4WzPf9mqfSFTs #sb_conversation_ai_settings_v2,
-..UCpSNys4WzPf9mqfSFTs #sb_saas-billing,
-..UCpSNys4WzPf9mqfSFTs #sb_reporting,
-..UCpSNys4WzPf9mqfSFTs #sb_brand-boards,
-..UCpSNys4WzPf9mqfSFTs #tb_countdown-timer,
-..UCpSNys4WzPf9mqfSFTs #sb_ai_agent_settings,
-..UCpSNys4WzPf9mqfSFTs #tb_conversations-templates,
-..UCpSNys4WzPf9mqfSFTs #tb_trigger-links,
-..UCpSNys4WzPf9mqfSFTs #tb_contacts-restore,
-..UCpSNys4WzPf9mqfSFTs #tb_contacts-settings-topid,
-..UCpSNys4WzPf9mqfSFTs #tb_contact-custom-fields-settings,
-..UCpSNys4WzPf9mqfSFTs #tb_pipeline,
-..UCpSNys4WzPf9mqfSFTs #tb_bulk-actions,
-..UCpSNys4WzPf9mqfSFTs #tb_webinars,
-..UCpSNys4WzPf9mqfSFTs #container,
-..UCpSNys4WzPf9mqfSFTs a#recent_activities-toggle,
-..UCpSNys4WzPf9mqfSFTs button[aria-label="Toggle Power Dialer"],
-..UCpSNys4WzPf9mqfSFTs ul.flex > li:nth-child(2),
-..UCpSNys4WzPf9mqfSFTs #sb_knowledge_base_settings,
-..UCpSNys4WzPf9mqfSFTs #sb_objects,
-..UCpSNys4WzPf9mqfSFTs #stb_proposals-estimates,
-..UCpSNys4WzPf9mqfSFTs #tb_tasks,
-..UCpSNys4WzPf9mqfSFTs #tb_business,
-..UCpSNys4WzPf9mqfSFTs #tb_lists,
-..UCpSNys4WzPf9mqfSFTs #tb_contacts-settings-top,
-..UCpSNys4WzPf9mqfSFTs #task-tab,
-..UCpSNys4WzPf9mqfSFTs #notes-tab,
-..UCpSNys4WzPf9mqfSFTs #documents-tab,
-..UCpSNys4WzPf9mqfSFTs #associations-tab,
-..UCpSNys4WzPf9mqfSFTs #tb_payment-invoices {
-  display: none !important;
-}
-
-..UCpSNys4WzPf9mqfSFTs #location_dashboard-btn-dashboard_switcher,
-..UCpSNys4WzPf9mqfSFTs #location-dashboard_btn--edit-dashboard {
-  pointer-events: none !important;
-}
-/* E- Yosri Azaiez - Starter Plan With No SaaS */
-
-/* B- Aziz Rabaa - Starter Plan With No SaaS */
-..LhgK9QOB0kqEauIY0yHw #tb_brand-boards,
-..LhgK9QOB0kqEauIY0yHw #tb_proposals-estimates,
-..LhgK9QOB0kqEauIY0yHw #sb_memberships,
-..LhgK9QOB0kqEauIY0yHw #tb_clientportal,
-..LhgK9QOB0kqEauIY0yHw #sb_location-mobile-app,
-..LhgK9QOB0kqEauIY0yHw #sb_launchpad,
-..LhgK9QOB0kqEauIY0yHw #sb_integrations,
-..LhgK9QOB0kqEauIY0yHw #sb_my-business,
-..LhgK9QOB0kqEauIY0yHw #sb_business-services,
-..LhgK9QOB0kqEauIY0yHw #sb_conversation_ai_settings,
-..LhgK9QOB0kqEauIY0yHw #sb_phone-number,
-..LhgK9QOB0kqEauIY0yHw #sb_whatsapp,
-..LhgK9QOB0kqEauIY0yHw #sb_url-redirects,
-..LhgK9QOB0kqEauIY0yHw #sb_conversations_providers,
-..LhgK9QOB0kqEauIY0yHw #sb_other-settings,
-..LhgK9QOB0kqEauIY0yHw #dialer-error-toggle,
-..LhgK9QOB0kqEauIY0yHw #tb_url-redirects,
-..LhgK9QOB0kqEauIY0yHw #tb_chat-widget,
-..LhgK9QOB0kqEauIY0yHw #tb_email-templates,
-..LhgK9QOB0kqEauIY0yHw #tb_trigger-links,
-..LhgK9QOB0kqEauIY0yHw #sb_custom-values,
-..LhgK9QOB0kqEauIY0yHw #sb_custom-fields-settings,
-..LhgK9QOB0kqEauIY0yHw #sb_conversations,
-..LhgK9QOB0kqEauIY0yHw #recent_activities-toggle,
-..LhgK9QOB0kqEauIY0yHw #sb_AI\ Agents,
-..LhgK9QOB0kqEauIY0yHw #tb_analytics,
-..LhgK9QOB0kqEauIY0yHw #tb_qr-codes,
-..LhgK9QOB0kqEauIY0yHw #sb_conversation_ai_settings_v2,
-..LhgK9QOB0kqEauIY0yHw #sb_saas-billing,
-..LhgK9QOB0kqEauIY0yHw #sb_reporting,
-..LhgK9QOB0kqEauIY0yHw #sb_brand-boards,
-..LhgK9QOB0kqEauIY0yHw #tb_countdown-timer,
-..LhgK9QOB0kqEauIY0yHw #sb_ai_agent_settings,
-..LhgK9QOB0kqEauIY0yHw #tb_conversations-templates,
-..LhgK9QOB0kqEauIY0yHw #tb_trigger-links,
-..LhgK9QOB0kqEauIY0yHw #tb_contacts-restore,
-..LhgK9QOB0kqEauIY0yHw #tb_contacts-settings-topid,
-..LhgK9QOB0kqEauIY0yHw #tb_contact-custom-fields-settings,
-..LhgK9QOB0kqEauIY0yHw #tb_pipeline,
-..LhgK9QOB0kqEauIY0yHw #tb_bulk-actions,
-..LhgK9QOB0kqEauIY0yHw #tb_webinars,
-..LhgK9QOB0kqEauIY0yHw #container,
-..LhgK9QOB0kqEauIY0yHw a#recent_activities-toggle,
-..LhgK9QOB0kqEauIY0yHw button[aria-label="Toggle Power Dialer"],
-..LhgK9QOB0kqEauIY0yHw ul.flex > li:nth-child(2),
-..LhgK9QOB0kqEauIY0yHw #sb_knowledge_base_settings,
-..LhgK9QOB0kqEauIY0yHw #sb_objects,
-..LhgK9QOB0kqEauIY0yHw #stb_proposals-estimates,
-..LhgK9QOB0kqEauIY0yHw #tb_tasks,
-..LhgK9QOB0kqEauIY0yHw #tb_business,
-..LhgK9QOB0kqEauIY0yHw #tb_lists,
-..LhgK9QOB0kqEauIY0yHw #tb_contacts-settings-top,
-..LhgK9QOB0kqEauIY0yHw #task-tab,
-..LhgK9QOB0kqEauIY0yHw #notes-tab,
-..LhgK9QOB0kqEauIY0yHw #documents-tab,
-..LhgK9QOB0kqEauIY0yHw #associations-tab,
-..LhgK9QOB0kqEauIY0yHw #tb_payment-invoices {
-  display: none !important;
-}
-
-..LhgK9QOB0kqEauIY0yHw #location_dashboard-btn-dashboard_switcher,
-..LhgK9QOB0kqEauIY0yHw #location-dashboard_btn--edit-dashboard {
-  pointer-events: none !important;
-}
-/* E- Aziz Rabaa - Starter Plan With No SaaS */
