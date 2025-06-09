@@ -3579,3 +3579,70 @@ B-======= EAMC Student Starter Plan - No SaaS =============
   pointer-events: none !important;
 }
 /* E- Hakim Mrabti - Starter Plan With No SaaS */
+
+/* B- Saber Ghizlane - Starter Plan With No SaaS */
+.LEmbQMxOS1CN15mK2Lxt #tb_brand-boards,
+.LEmbQMxOS1CN15mK2Lxt #tb_proposals-estimates,
+.LEmbQMxOS1CN15mK2Lxt #sb_memberships,
+.LEmbQMxOS1CN15mK2Lxt #tb_clientportal,
+.LEmbQMxOS1CN15mK2Lxt #sb_location-mobile-app,
+.LEmbQMxOS1CN15mK2Lxt #sb_launchpad,
+.LEmbQMxOS1CN15mK2Lxt #sb_integrations,
+.LEmbQMxOS1CN15mK2Lxt #sb_my-business,
+.LEmbQMxOS1CN15mK2Lxt #sb_business-services,
+.LEmbQMxOS1CN15mK2Lxt #sb_conversation_ai_settings,
+.LEmbQMxOS1CN15mK2Lxt #sb_phone-number,
+.LEmbQMxOS1CN15mK2Lxt #sb_whatsapp,
+.LEmbQMxOS1CN15mK2Lxt #sb_url-redirects,
+.LEmbQMxOS1CN15mK2Lxt #sb_conversations_providers,
+.LEmbQMxOS1CN15mK2Lxt #sb_other-settings,
+.LEmbQMxOS1CN15mK2Lxt #dialer-error-toggle,
+.LEmbQMxOS1CN15mK2Lxt #tb_url-redirects,
+.LEmbQMxOS1CN15mK2Lxt #tb_chat-widget,
+.LEmbQMxOS1CN15mK2Lxt #tb_email-templates,
+.LEmbQMxOS1CN15mK2Lxt #tb_trigger-links,
+.LEmbQMxOS1CN15mK2Lxt #sb_custom-values,
+.LEmbQMxOS1CN15mK2Lxt #sb_custom-fields-settings,
+.LEmbQMxOS1CN15mK2Lxt #sb_conversations,
+.LEmbQMxOS1CN15mK2Lxt #recent_activities-toggle,
+.LEmbQMxOS1CN15mK2Lxt #sb_AI\ Agents,
+.LEmbQMxOS1CN15mK2Lxt #tb_analytics,
+.LEmbQMxOS1CN15mK2Lxt #tb_qr-codes,
+.LEmbQMxOS1CN15mK2Lxt #sb_conversation_ai_settings_v2,
+.LEmbQMxOS1CN15mK2Lxt #sb_saas-billing,
+.LEmbQMxOS1CN15mK2Lxt #sb_reporting,
+.LEmbQMxOS1CN15mK2Lxt #sb_brand-boards,
+.LEmbQMxOS1CN15mK2Lxt #tb_countdown-timer,
+.LEmbQMxOS1CN15mK2Lxt #sb_ai_agent_settings,
+.LEmbQMxOS1CN15mK2Lxt #tb_conversations-templates,
+.LEmbQMxOS1CN15mK2Lxt #tb_trigger-links,
+.LEmbQMxOS1CN15mK2Lxt #tb_contacts-restore,
+.LEmbQMxOS1CN15mK2Lxt #tb_contacts-settings-topid,
+.LEmbQMxOS1CN15mK2Lxt #tb_contact-custom-fields-settings,
+.LEmbQMxOS1CN15mK2Lxt #tb_pipeline,
+.LEmbQMxOS1CN15mK2Lxt #tb_bulk-actions,
+.LEmbQMxOS1CN15mK2Lxt #tb_webinars,
+.LEmbQMxOS1CN15mK2Lxt #container,
+.LEmbQMxOS1CN15mK2Lxt a#recent_activities-toggle,
+.LEmbQMxOS1CN15mK2Lxt button[aria-label="Toggle Power Dialer"],
+.LEmbQMxOS1CN15mK2Lxt ul.flex > li:nth-child(2),
+.LEmbQMxOS1CN15mK2Lxt #sb_knowledge_base_settings,
+.LEmbQMxOS1CN15mK2Lxt #sb_objects,
+.LEmbQMxOS1CN15mK2Lxt #stb_proposals-estimates,
+.LEmbQMxOS1CN15mK2Lxt #tb_tasks,
+.LEmbQMxOS1CN15mK2Lxt #tb_business,
+.LEmbQMxOS1CN15mK2Lxt #tb_lists,
+.LEmbQMxOS1CN15mK2Lxt #tb_contacts-settings-top,
+.LEmbQMxOS1CN15mK2Lxt #task-tab,
+.LEmbQMxOS1CN15mK2Lxt #notes-tab,
+.LEmbQMxOS1CN15mK2Lxt #documents-tab,
+.LEmbQMxOS1CN15mK2Lxt #associations-tab,
+.LEmbQMxOS1CN15mK2Lxt #tb_payment-invoices {
+  display: none !important;
+}
+
+.LEmbQMxOS1CN15mK2Lxt #location_dashboard-btn-dashboard_switcher,
+.LEmbQMxOS1CN15mK2Lxt #location-dashboard_btn--edit-dashboard {
+  pointer-events: none !important;
+}
+/* E- Saber Ghizlane - Starter Plan With No SaaS */
