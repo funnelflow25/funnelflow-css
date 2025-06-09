@@ -3244,3 +3244,70 @@ B-======= EAMC Student Starter Plan - No SaaS =============
   pointer-events: none !important;
 }
 /* E- BAHAA AOSE - Starter Plan With No SaaS */
+
+/* B- Selim El Aid - Starter Plan With No SaaS */
+.MWzL6c5nPruTrgaWaGCb #tb_brand-boards,
+.MWzL6c5nPruTrgaWaGCb #tb_proposals-estimates,
+.MWzL6c5nPruTrgaWaGCb #sb_memberships,
+.MWzL6c5nPruTrgaWaGCb #tb_clientportal,
+.MWzL6c5nPruTrgaWaGCb #sb_location-mobile-app,
+.MWzL6c5nPruTrgaWaGCb #sb_launchpad,
+.MWzL6c5nPruTrgaWaGCb #sb_integrations,
+.MWzL6c5nPruTrgaWaGCb #sb_my-business,
+.MWzL6c5nPruTrgaWaGCb #sb_business-services,
+.MWzL6c5nPruTrgaWaGCb #sb_conversation_ai_settings,
+.MWzL6c5nPruTrgaWaGCb #sb_phone-number,
+.MWzL6c5nPruTrgaWaGCb #sb_whatsapp,
+.MWzL6c5nPruTrgaWaGCb #sb_url-redirects,
+.MWzL6c5nPruTrgaWaGCb #sb_conversations_providers,
+.MWzL6c5nPruTrgaWaGCb #sb_other-settings,
+.MWzL6c5nPruTrgaWaGCb #dialer-error-toggle,
+.MWzL6c5nPruTrgaWaGCb #tb_url-redirects,
+.MWzL6c5nPruTrgaWaGCb #tb_chat-widget,
+.MWzL6c5nPruTrgaWaGCb #tb_email-templates,
+.MWzL6c5nPruTrgaWaGCb #tb_trigger-links,
+.MWzL6c5nPruTrgaWaGCb #sb_custom-values,
+.MWzL6c5nPruTrgaWaGCb #sb_custom-fields-settings,
+.MWzL6c5nPruTrgaWaGCb #sb_conversations,
+.MWzL6c5nPruTrgaWaGCb #recent_activities-toggle,
+.MWzL6c5nPruTrgaWaGCb #sb_AI\ Agents,
+.MWzL6c5nPruTrgaWaGCb #tb_analytics,
+.MWzL6c5nPruTrgaWaGCb #tb_qr-codes,
+.MWzL6c5nPruTrgaWaGCb #sb_conversation_ai_settings_v2,
+.MWzL6c5nPruTrgaWaGCb #sb_saas-billing,
+.MWzL6c5nPruTrgaWaGCb #sb_reporting,
+.MWzL6c5nPruTrgaWaGCb #sb_brand-boards,
+.MWzL6c5nPruTrgaWaGCb #tb_countdown-timer,
+.MWzL6c5nPruTrgaWaGCb #sb_ai_agent_settings,
+.MWzL6c5nPruTrgaWaGCb #tb_conversations-templates,
+.MWzL6c5nPruTrgaWaGCb #tb_trigger-links,
+.MWzL6c5nPruTrgaWaGCb #tb_contacts-restore,
+.MWzL6c5nPruTrgaWaGCb #tb_contacts-settings-topid,
+.MWzL6c5nPruTrgaWaGCb #tb_contact-custom-fields-settings,
+.MWzL6c5nPruTrgaWaGCb #tb_pipeline,
+.MWzL6c5nPruTrgaWaGCb #tb_bulk-actions,
+.MWzL6c5nPruTrgaWaGCb #tb_webinars,
+.MWzL6c5nPruTrgaWaGCb #container,
+.MWzL6c5nPruTrgaWaGCb a#recent_activities-toggle,
+.MWzL6c5nPruTrgaWaGCb button[aria-label="Toggle Power Dialer"],
+.MWzL6c5nPruTrgaWaGCb ul.flex > li:nth-child(2),
+.MWzL6c5nPruTrgaWaGCb #sb_knowledge_base_settings,
+.MWzL6c5nPruTrgaWaGCb #sb_objects,
+.MWzL6c5nPruTrgaWaGCb #stb_proposals-estimates,
+.MWzL6c5nPruTrgaWaGCb #tb_tasks,
+.MWzL6c5nPruTrgaWaGCb #tb_business,
+.MWzL6c5nPruTrgaWaGCb #tb_lists,
+.MWzL6c5nPruTrgaWaGCb #tb_contacts-settings-top,
+.MWzL6c5nPruTrgaWaGCb #task-tab,
+.MWzL6c5nPruTrgaWaGCb #notes-tab,
+.MWzL6c5nPruTrgaWaGCb #documents-tab,
+.MWzL6c5nPruTrgaWaGCb #associations-tab,
+.MWzL6c5nPruTrgaWaGCb #tb_payment-invoices {
+  display: none !important;
+}
+
+.MWzL6c5nPruTrgaWaGCb #location_dashboard-btn-dashboard_switcher,
+.MWzL6c5nPruTrgaWaGCb #location-dashboard_btn--edit-dashboard {
+  pointer-events: none !important;
+}
+/* E- Selim El Aid - Starter Plan With No SaaS */
