@@ -3311,3 +3311,70 @@ B-======= EAMC Student Starter Plan - No SaaS =============
   pointer-events: none !important;
 }
 /* E- Selim El Aid - Starter Plan With No SaaS */
+
+/* B- Salim Soui - Starter Plan With No SaaS */
+.eR9be7mZ42kk4AQWMyit #tb_brand-boards,
+.eR9be7mZ42kk4AQWMyit #tb_proposals-estimates,
+.eR9be7mZ42kk4AQWMyit #sb_memberships,
+.eR9be7mZ42kk4AQWMyit #tb_clientportal,
+.eR9be7mZ42kk4AQWMyit #sb_location-mobile-app,
+.eR9be7mZ42kk4AQWMyit #sb_launchpad,
+.eR9be7mZ42kk4AQWMyit #sb_integrations,
+.eR9be7mZ42kk4AQWMyit #sb_my-business,
+.eR9be7mZ42kk4AQWMyit #sb_business-services,
+.eR9be7mZ42kk4AQWMyit #sb_conversation_ai_settings,
+.eR9be7mZ42kk4AQWMyit #sb_phone-number,
+.eR9be7mZ42kk4AQWMyit #sb_whatsapp,
+.eR9be7mZ42kk4AQWMyit #sb_url-redirects,
+.eR9be7mZ42kk4AQWMyit #sb_conversations_providers,
+.eR9be7mZ42kk4AQWMyit #sb_other-settings,
+.eR9be7mZ42kk4AQWMyit #dialer-error-toggle,
+.eR9be7mZ42kk4AQWMyit #tb_url-redirects,
+.eR9be7mZ42kk4AQWMyit #tb_chat-widget,
+.eR9be7mZ42kk4AQWMyit #tb_email-templates,
+.eR9be7mZ42kk4AQWMyit #tb_trigger-links,
+.eR9be7mZ42kk4AQWMyit #sb_custom-values,
+.eR9be7mZ42kk4AQWMyit #sb_custom-fields-settings,
+.eR9be7mZ42kk4AQWMyit #sb_conversations,
+.eR9be7mZ42kk4AQWMyit #recent_activities-toggle,
+.eR9be7mZ42kk4AQWMyit #sb_AI\ Agents,
+.eR9be7mZ42kk4AQWMyit #tb_analytics,
+.eR9be7mZ42kk4AQWMyit #tb_qr-codes,
+.eR9be7mZ42kk4AQWMyit #sb_conversation_ai_settings_v2,
+.eR9be7mZ42kk4AQWMyit #sb_saas-billing,
+.eR9be7mZ42kk4AQWMyit #sb_reporting,
+.eR9be7mZ42kk4AQWMyit #sb_brand-boards,
+.eR9be7mZ42kk4AQWMyit #tb_countdown-timer,
+.eR9be7mZ42kk4AQWMyit #sb_ai_agent_settings,
+.eR9be7mZ42kk4AQWMyit #tb_conversations-templates,
+.eR9be7mZ42kk4AQWMyit #tb_trigger-links,
+.eR9be7mZ42kk4AQWMyit #tb_contacts-restore,
+.eR9be7mZ42kk4AQWMyit #tb_contacts-settings-topid,
+.eR9be7mZ42kk4AQWMyit #tb_contact-custom-fields-settings,
+.eR9be7mZ42kk4AQWMyit #tb_pipeline,
+.eR9be7mZ42kk4AQWMyit #tb_bulk-actions,
+.eR9be7mZ42kk4AQWMyit #tb_webinars,
+.eR9be7mZ42kk4AQWMyit #container,
+.eR9be7mZ42kk4AQWMyit a#recent_activities-toggle,
+.eR9be7mZ42kk4AQWMyit button[aria-label="Toggle Power Dialer"],
+.eR9be7mZ42kk4AQWMyit ul.flex > li:nth-child(2),
+.eR9be7mZ42kk4AQWMyit #sb_knowledge_base_settings,
+.eR9be7mZ42kk4AQWMyit #sb_objects,
+.eR9be7mZ42kk4AQWMyit #stb_proposals-estimates,
+.eR9be7mZ42kk4AQWMyit #tb_tasks,
+.eR9be7mZ42kk4AQWMyit #tb_business,
+.eR9be7mZ42kk4AQWMyit #tb_lists,
+.eR9be7mZ42kk4AQWMyit #tb_contacts-settings-top,
+.eR9be7mZ42kk4AQWMyit #task-tab,
+.eR9be7mZ42kk4AQWMyit #notes-tab,
+.eR9be7mZ42kk4AQWMyit #documents-tab,
+.eR9be7mZ42kk4AQWMyit #associations-tab,
+.eR9be7mZ42kk4AQWMyit #tb_payment-invoices {
+  display: none !important;
+}
+
+.eR9be7mZ42kk4AQWMyit #location_dashboard-btn-dashboard_switcher,
+.eR9be7mZ42kk4AQWMyit #location-dashboard_btn--edit-dashboard {
+  pointer-events: none !important;
+}
+/* E- Salim Soui - Starter Plan With No SaaS */
