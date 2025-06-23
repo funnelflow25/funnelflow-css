@@ -2,6 +2,72 @@
 B-======= EAMC STAFF Start Plan - No SaaS ================
                  Appended Manually
 #########################################################*/
+/* B- Ayoub Alaya  - Starter Plan With No SaaS */
+.hdNRuAYLLS5gc0YnvGol #tb_brand-boards,
+.hdNRuAYLLS5gc0YnvGol #tb_proposals-estimates,
+.hdNRuAYLLS5gc0YnvGol #sb_memberships,
+.hdNRuAYLLS5gc0YnvGol #tb_clientportal,
+.hdNRuAYLLS5gc0YnvGol #sb_location-mobile-app,
+.hdNRuAYLLS5gc0YnvGol #sb_launchpad,
+.hdNRuAYLLS5gc0YnvGol #sb_integrations,
+.hdNRuAYLLS5gc0YnvGol #sb_my-business,
+.hdNRuAYLLS5gc0YnvGol #sb_business-services,
+.hdNRuAYLLS5gc0YnvGol #sb_conversation_ai_settings,
+.hdNRuAYLLS5gc0YnvGol #sb_phone-number,
+.hdNRuAYLLS5gc0YnvGol #sb_whatsapp,
+.hdNRuAYLLS5gc0YnvGol #sb_url-redirects,
+.hdNRuAYLLS5gc0YnvGol #sb_conversations_providers,
+.hdNRuAYLLS5gc0YnvGol #sb_other-settings,
+.hdNRuAYLLS5gc0YnvGol #dialer-error-toggle,
+.hdNRuAYLLS5gc0YnvGol #tb_url-redirects,
+.hdNRuAYLLS5gc0YnvGol #tb_chat-widget,
+.hdNRuAYLLS5gc0YnvGol #tb_email-templates,
+.hdNRuAYLLS5gc0YnvGol #tb_trigger-links,
+.hdNRuAYLLS5gc0YnvGol #sb_custom-values,
+.hdNRuAYLLS5gc0YnvGol #sb_custom-fields-settings,
+.hdNRuAYLLS5gc0YnvGol #sb_conversations,
+.hdNRuAYLLS5gc0YnvGol #recent_activities-toggle,
+.hdNRuAYLLS5gc0YnvGol #sb_AI\ Agents,
+.hdNRuAYLLS5gc0YnvGol #tb_analytics,
+.hdNRuAYLLS5gc0YnvGol #tb_qr-codes,
+.hdNRuAYLLS5gc0YnvGol #sb_conversation_ai_settings_v2,
+.hdNRuAYLLS5gc0YnvGol #sb_saas-billing,
+.hdNRuAYLLS5gc0YnvGol #sb_reporting,
+.hdNRuAYLLS5gc0YnvGol #sb_brand-boards,
+.hdNRuAYLLS5gc0YnvGol #tb_countdown-timer,
+.hdNRuAYLLS5gc0YnvGol #sb_ai_agent_settings,
+.hdNRuAYLLS5gc0YnvGol #tb_conversations-templates,
+.hdNRuAYLLS5gc0YnvGol #tb_trigger-links,
+.hdNRuAYLLS5gc0YnvGol #tb_contacts-restore,
+.hdNRuAYLLS5gc0YnvGol #tb_contacts-settings-topid,
+.hdNRuAYLLS5gc0YnvGol #tb_contact-custom-fields-settings,
+.hdNRuAYLLS5gc0YnvGol #tb_pipeline,
+.hdNRuAYLLS5gc0YnvGol #tb_bulk-actions,
+.hdNRuAYLLS5gc0YnvGol #tb_webinars,
+.hdNRuAYLLS5gc0YnvGol #container,
+.hdNRuAYLLS5gc0YnvGol a#recent_activities-toggle,
+.hdNRuAYLLS5gc0YnvGol button[aria-label="Toggle Power Dialer"],
+.hdNRuAYLLS5gc0YnvGol ul.flex > li:nth-child(2),
+.hdNRuAYLLS5gc0YnvGol #sb_knowledge_base_settings,
+.hdNRuAYLLS5gc0YnvGol #sb_objects,
+.hdNRuAYLLS5gc0YnvGol #stb_proposals-estimates,
+.hdNRuAYLLS5gc0YnvGol #tb_tasks,
+.hdNRuAYLLS5gc0YnvGol #tb_business,
+.hdNRuAYLLS5gc0YnvGol #tb_lists,
+.hdNRuAYLLS5gc0YnvGol #tb_contacts-settings-top,
+.hdNRuAYLLS5gc0YnvGol #task-tab,
+.hdNRuAYLLS5gc0YnvGol #notes-tab,
+.hdNRuAYLLS5gc0YnvGol #documents-tab,
+.hdNRuAYLLS5gc0YnvGol #associations-tab,
+.hdNRuAYLLS5gc0YnvGol #tb_payment-invoices {
+    display: none !important
+}
+
+.hdNRuAYLLS5gc0YnvGol #location_dashboard-btn-dashboard_switcher,
+.hdNRuAYLLS5gc0YnvGol #location-dashboard_btn--edit-dashboard {
+  pointer-events: none !important;
+}
+/* E- Ayoub Alaya  - Starter Plan With No SaaS */
 
 /* B- Ilyes Hechmi - EAMC STAFF */
 .jOKzvMcMxly3uMZrdx4S #sb_memberships,
