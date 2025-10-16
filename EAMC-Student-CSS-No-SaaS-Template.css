@@ -1,10 +1,9 @@
-/* B- {{student_name}} - Starter Plan With No SaaS */
+/* B- {{student_name}} */
 .{{LOCATION_ID}} #tb_business,
 .{{LOCATION_ID}} #tb_contacts-restore,
 .{{LOCATION_ID}} #tb_contact-custom-fields-settings,
 .{{LOCATION_ID}} #tb_webinars,
 .{{LOCATION_ID}} #tb_clientportal,
-.{{LOCATION_ID}} a#recent_activities-toggle,
 .{{LOCATION_ID}} #sb_app-marketplace,
 .{{LOCATION_ID}} #b4de0261-f3d6-4166-b909-512d5b9bc645,
 .{{LOCATION_ID}} #sb_Opportunities-Pipelines,
@@ -20,6 +19,14 @@
 .{{LOCATION_ID}} #tb_ad-manager-home,
 .{{LOCATION_ID}} #sb_business-settings-v2,
 .{{LOCATION_ID}} #tb_audit-report,
+.{{LOCATION_ID}} #documents-tab,
+.{{LOCATION_ID}} #tb_proposals-estimates,
+.{{LOCATION_ID}} #sb_knowledge-base-settings,
+.{{LOCATION_ID}} #sb_phone-number,
+.{{LOCATION_ID}} #sb_brand-boards,
+.{{LOCATION_ID}} #tb_brand-boards,
+.{{LOCATION_ID}} #sb_reporting,
+.{{LOCATION_ID}} a#recent_activities-toggle,
 .{{LOCATION_ID}} button[aria-label="Toggle Power Dialer"],
 .{{LOCATION_ID}} span.divider.topmenu-navitem.mx-1.pb-2.md\:pb-3,
 .{{LOCATION_ID}} button#upgrade-button.n-button.n-button--tertiary-type.n-button--large-type,
@@ -27,4 +34,8 @@
     display: none !important;
 }
 
-/* E- {{student_name}} - Starter Plan With No SaaS */
+.{{LOCATION_ID}} #location_dashboard-btn-dashboard_switcher,
+.{{LOCATION_ID}} #location-dashboard_btn--edit-dashboard {
+  pointer-events: none !important;
+}
+/* {{student_name}} */
