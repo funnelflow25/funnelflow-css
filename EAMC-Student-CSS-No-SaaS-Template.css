@@ -5,10 +5,6 @@
 .{{LOCATION_ID}} #tb_webinars,
 .{{LOCATION_ID}} #tb_clientportal,
 .{{LOCATION_ID}} a#recent_activities-toggle,
-.{{LOCATION_ID}} button[aria-label="Toggle Power Dialer"],
-.{{LOCATION_ID}} span.divider.topmenu-navitem.mx-1.pb-2.md\:pb-3,
-.{{LOCATION_ID}} button#upgrade-button.n-button.n-button--tertiary-type.n-button--large-type,
-.{{LOCATION_ID}} #sb_AI\ Agents,
 .{{LOCATION_ID}} #sb_app-marketplace,
 .{{LOCATION_ID}} #b4de0261-f3d6-4166-b909-512d5b9bc645,
 .{{LOCATION_ID}} #sb_Opportunities-Pipelines,
@@ -23,7 +19,11 @@
 .{{LOCATION_ID}} #sb_audit-logs-location,
 .{{LOCATION_ID}} #tb_ad-manager-home,
 .{{LOCATION_ID}} #sb_business-settings-v2,
-.{{LOCATION_ID}} #tb_audit-report {
+.{{LOCATION_ID}} #tb_audit-report,
+.{{LOCATION_ID}} button[aria-label="Toggle Power Dialer"],
+.{{LOCATION_ID}} span.divider.topmenu-navitem.mx-1.pb-2.md\:pb-3,
+.{{LOCATION_ID}} button#upgrade-button.n-button.n-button--tertiary-type.n-button--large-type,
+.{{LOCATION_ID}} #sb_AI\ Agents {
     display: none !important;
 }
 
