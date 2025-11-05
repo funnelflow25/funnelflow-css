@@ -4259,15 +4259,43 @@ B-======= EAMC Student Starter Plan - No SaaS =============
 
 /* E- NEW CSS */
 
+/* B- Thameur Bensalem */
+.j64i3IPdk8RY18cdKJBE #tb_business,
+.j64i3IPdk8RY18cdKJBE #tb_contacts-restore,
+.j64i3IPdk8RY18cdKJBE #tb_contact-custom-fields-settings,
+.j64i3IPdk8RY18cdKJBE #tb_webinars,
+.j64i3IPdk8RY18cdKJBE #tb_clientportal,
+.j64i3IPdk8RY18cdKJBE #sb_app-marketplace,
+.j64i3IPdk8RY18cdKJBE #b4de0261-f3d6-4166-b909-512d5b9bc645,
+.j64i3IPdk8RY18cdKJBE #sb_Opportunities-Pipelines,
+.j64i3IPdk8RY18cdKJBE #sb_objects,
+.j64i3IPdk8RY18cdKJBE #sb_whatsapp,
+.j64i3IPdk8RY18cdKJBE #sb_custom-values,
+.j64i3IPdk8RY18cdKJBE #sb_ai_agent_settings,
+.j64i3IPdk8RY18cdKJBE #sb_custom-fields-settings,
+.j64i3IPdk8RY18cdKJBE #sb_knowledge_base_settings,
+.j64i3IPdk8RY18cdKJBE #sb_conversations_providers,
+.j64i3IPdk8RY18cdKJBE #sb_labs,
+.j64i3IPdk8RY18cdKJBE #sb_audit-logs-location,
+.j64i3IPdk8RY18cdKJBE #tb_ad-manager-home,
+.j64i3IPdk8RY18cdKJBE #sb_business-settings-v2,
+.j64i3IPdk8RY18cdKJBE #tb_audit-report,
+.j64i3IPdk8RY18cdKJBE #documents-tab,
+.j64i3IPdk8RY18cdKJBE #tb_proposals-estimates,
+.j64i3IPdk8RY18cdKJBE #sb_knowledge-base-settings,
+.j64i3IPdk8RY18cdKJBE #sb_phone-number,
+.j64i3IPdk8RY18cdKJBE #sb_brand-boards,
+.j64i3IPdk8RY18cdKJBE #tb_brand-boards,
+.j64i3IPdk8RY18cdKJBE a#recent_activities-toggle,
+.j64i3IPdk8RY18cdKJBE button[aria-label="Toggle Power Dialer"],
+.j64i3IPdk8RY18cdKJBE span.divider.topmenu-navitem.mx-1.pb-2.md\:pb-3,
+.j64i3IPdk8RY18cdKJBE button#upgrade-button.n-button.n-button--tertiary-type.n-button--large-type,
+.j64i3IPdk8RY18cdKJBE #sb_AI\ Agents {
+    display: none !important;
+}
 
-
-
-
-
-
-
-
-
-
-
-
+.j64i3IPdk8RY18cdKJBE #location_dashboard-btn-dashboard_switcher,
+.j64i3IPdk8RY18cdKJBE #location-dashboard_btn--edit-dashboard {
+  pointer-events: none !important;
+}
+/* Thameur Bensalem */
