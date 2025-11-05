@@ -25,7 +25,6 @@
 .{{LOCATION_ID}} #sb_phone-number,
 .{{LOCATION_ID}} #sb_brand-boards,
 .{{LOCATION_ID}} #tb_brand-boards,
-.{{LOCATION_ID}} #sb_reporting,
 .{{LOCATION_ID}} a#recent_activities-toggle,
 .{{LOCATION_ID}} button[aria-label="Toggle Power Dialer"],
 .{{LOCATION_ID}} span.divider.topmenu-navitem.mx-1.pb-2.md\:pb-3,
