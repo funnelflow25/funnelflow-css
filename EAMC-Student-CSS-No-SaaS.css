@@ -1947,3 +1947,44 @@ B-======= EAMC Student Achievers Plan - No SaaS =============
   pointer-events: none !important;
 }
 /* Amira Fourati */
+
+/* B- med fedi */
+.q4CeloGAksiFVX5AJmIj #tb_business,
+.q4CeloGAksiFVX5AJmIj #tb_contacts-restore,
+.q4CeloGAksiFVX5AJmIj #tb_contact-custom-fields-settings,
+.q4CeloGAksiFVX5AJmIj #tb_webinars,
+.q4CeloGAksiFVX5AJmIj #tb_clientportal,
+.q4CeloGAksiFVX5AJmIj #sb_app-marketplace,
+.q4CeloGAksiFVX5AJmIj #b4de0261-f3d6-4166-b909-512d5b9bc645,
+.q4CeloGAksiFVX5AJmIj #sb_Opportunities-Pipelines,
+.q4CeloGAksiFVX5AJmIj #sb_objects,
+.q4CeloGAksiFVX5AJmIj #sb_whatsapp,
+.q4CeloGAksiFVX5AJmIj #sb_custom-values,
+.q4CeloGAksiFVX5AJmIj #sb_ai_agent_settings,
+.q4CeloGAksiFVX5AJmIj #sb_custom-fields-settings,
+.q4CeloGAksiFVX5AJmIj #sb_knowledge_base_settings,
+.q4CeloGAksiFVX5AJmIj #sb_conversations_providers,
+.q4CeloGAksiFVX5AJmIj #sb_labs,
+.q4CeloGAksiFVX5AJmIj #sb_audit-logs-location,
+.q4CeloGAksiFVX5AJmIj #tb_ad-manager-home,
+.q4CeloGAksiFVX5AJmIj #sb_business-settings-v2,
+.q4CeloGAksiFVX5AJmIj #tb_audit-report,
+.q4CeloGAksiFVX5AJmIj #documents-tab,
+.q4CeloGAksiFVX5AJmIj #tb_proposals-estimates,
+.q4CeloGAksiFVX5AJmIj #sb_knowledge-base-settings,
+.q4CeloGAksiFVX5AJmIj #sb_phone-number,
+.q4CeloGAksiFVX5AJmIj #sb_brand-boards,
+.q4CeloGAksiFVX5AJmIj #tb_brand-boards,
+.q4CeloGAksiFVX5AJmIj a#recent_activities-toggle,
+.q4CeloGAksiFVX5AJmIj button[aria-label="Toggle Power Dialer"],
+.q4CeloGAksiFVX5AJmIj span.divider.topmenu-navitem.mx-1.pb-2.md\:pb-3,
+.q4CeloGAksiFVX5AJmIj button#upgrade-button.n-button.n-button--tertiary-type.n-button--large-type,
+.q4CeloGAksiFVX5AJmIj #sb_AI\ Agents {
+    display: none !important;
+}
+
+.q4CeloGAksiFVX5AJmIj #location_dashboard-btn-dashboard_switcher,
+.q4CeloGAksiFVX5AJmIj #location-dashboard_btn--edit-dashboard {
+  pointer-events: none !important;
+}
+/* med fedi */
